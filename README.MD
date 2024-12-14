@@ -2,7 +2,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é um projeto desenvolvido para o desafio da plaforma DIO.
+ **NOTE:** Este é um projeto desenvolvido para o desafio da plaforma DIO.
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 ## 💻 Tecnologias utilizadas no projeto
